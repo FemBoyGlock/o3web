@@ -1,14 +1,13 @@
 body {
     text-align: center;
     background-color: black;
-    background-image: linear-gradient(to bottom right, rgb(100, 48, 219), yellow);
+    background-image: linear-gradient(to bottom right, rgb(233, 6, 101), rgb(80, 4, 143), rgb(0, 238, 255));
     color: chartreuse;
     font-size: 70px;
 }
 
 p {
     color: rgb(255, 0, 0);
-    font-family: CathGrls;
 }
 
 @font-face {
@@ -35,4 +34,8 @@ ul{
     text-align: center;
     margin: 0;
     padding: 0;
+}
+
+#cathgrls {
+    font-family: CathGrls;
 }
