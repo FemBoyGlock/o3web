@@ -40,3 +40,8 @@ ul{
 #cathgrls {
     font-family: CathGrls;
 }
+
+#imgresize {
+    width: 540;
+    height: auto;
+}
