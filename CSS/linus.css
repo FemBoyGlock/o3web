@@ -1,9 +1,9 @@
 body{
-    background-image: url("./background/linus2.jpeg");
-    background-size: contain;
+    background-color: black;
+    color: green;
+    text-align: center;
 }
 h2{
     text-align: center;
-    color: rgb(255, 123, 0);
     font-size: 100px;
 }
