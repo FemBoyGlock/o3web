@@ -16,6 +16,11 @@ p {
     src: url(Aleo-Regular.otf);
 }
 
+@font-face {
+    font-family: sillium;
+    src: url(sillium.ttf);
+}
+
 #blue {
     color: blue;
 }
@@ -44,4 +49,8 @@ ul{
 #imgresize {
     width: 540;
     height: auto;
+}
+
+#sillium {
+    font-family: sillium;
 }
