@@ -12,11 +12,6 @@ p {
 }
 
 @font-face {
-    font-family: CathGrls;
-    src: url(cathgrls.TTF);
-}
-
-@font-face {
     font-family: AleoRegular;
     src: url(Aleo-Regular.otf);
 }
