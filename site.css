@@ -54,3 +54,17 @@ ul{
 #sillium {
     font-family: sillium;
 }
+
+li a{
+    display: block;
+    color:#0a97e9;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #CADBC0;
+    margin-left: 45%;
+    margin-right: 45%;
+}
