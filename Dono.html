@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Donations</title>
+</head>
+<link rel="stylesheet" href="Dono.css">
+<body>
+    <h1>
+        Donations
+    </h1>
+    <p>
+        Monero<br>
+    </p>
+<input type="text" value="43zQVt3jR2kWgnveem132Y77UarTwNRdg2MKE389ZrZNUB1XBSn8Dw7X2x3n1jxQsQh7BZ2hFUkcJ9YNHMRtb7Fc31MAdsS" id="myInput">
+<button onclick="myFunction()">Copy text</button>
+<script>
+function myFunction() {
+  var copyText = document.getElementById("myInput");
+  copyText.select();
+  copyText.setSelectionRange(0, 99999)
+  document.execCommand("copy");
+  alert("Copied the address");
+}
+</script>
+<p>
+    Paypal - Coming Soon (Maybe)<br>
+    Venmo - Coming Sonn (Maybe)
+</p>
+<nav>
+    <ul>
+        <li><a href="index.html"><i>H O M E</i></a></li>
+    </ul>
+</nav>
+</body>
+</html>
