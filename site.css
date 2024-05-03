@@ -75,3 +75,8 @@ li a:hover {
     font-family: onterio;
     color: gold;
 }
+
+header {
+    font-size: 200px;
+    text-transform: uppercase;
+}
